@@ -17,11 +17,8 @@ This project showcases an interactive sales dashboard built in Microsoft Excel t
 - Interactive filters (Location, Age Group, Payment Type)
 - Time-based analysis (Month-over-Month, Week-over-Week trends)
 
-## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
-
 ## 🔍 Key Insights
-- Certain age groups (30–74) contribute the majority of revenue
+- Certain age groups (60–74) contribute the majority of revenue
 - Mobile and card payments dominate transaction methods
 - Specific cities like San Antonio and New York generate high revenue
 - Seasonal variations observed in monthly performance trends
